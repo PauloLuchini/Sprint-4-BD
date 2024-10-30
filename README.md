@@ -10,12 +10,7 @@ Antes de começar, certifique-se de que você possui as seguintes ferramentas in
 - [npm](https://www.npmjs.com/) (geralmente vem com o Node.js)
 - [MongoDB](https://www.mongodb.com/) (local ou em nuvem)
 
-## Estrutura do Projeto
 
-/marketing-api └── server.js /marketing-frontend └── src └── package.json /Construção de Dados e Operações └── scripts de criação e inserção de documentos
-
-markdown
-Copiar código
 
 ## Configuração do Banco de Dados
 
