@@ -21,7 +21,7 @@ db.Empresas.insertMany([
     {
         "empresa_id": "E002",
         "nome": "Green Corp",
-        "tamanho": "Médio",
+        "tamanho": "Médio",''
         "setor": "Energia",
         "localizacao_geografica": "Rio de Janeiro",
         "numero_funcionarios": 300,
